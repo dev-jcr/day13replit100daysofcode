@@ -1,4 +1,5 @@
 # Exam grade calculator
+
 print(" ---- Exam grade calculator ----")
 t = input("""
 \033[33mWhat's the name of the test? \033[0m
